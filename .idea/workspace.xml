@@ -28,6 +28,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ec117b4-fb32-4bc9-9a60-3e1289e6df8c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -238,7 +240,7 @@
       <workItem from="1605445438355" duration="121000" />
       <workItem from="1605676103015" duration="4409000" />
       <workItem from="1605923719808" duration="5111000" />
-      <workItem from="1605942294718" duration="941000" />
+      <workItem from="1605942294718" duration="2007000" />
     </task>
     <servers />
   </component>
@@ -290,10 +292,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="396" y="280" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1604236005489" />
-    <state x="614" y="334" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605927240942">
+    <state x="614" y="334" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605943298592">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="614" y="334" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1605927240942" />
+    <state x="614" y="334" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1605943298592" />
     <state x="585" y="269" key="FileChooserDialogImpl" timestamp="1602138793072">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
