@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f9c98879-50ad-4eab-b680-cd500cb2c313" name="229">
+        <fileTransfer rootFolder="/home/zhangyou/hpcc/code/" accessType="SFTP" host="222.19.197.229" port="22" sshConfigId="e8511477-2890-48da-952c-d0b48144fd82" sshConfig="zhangyou@222.19.197.229:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

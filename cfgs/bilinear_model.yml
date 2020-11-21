@@ -1,0 +1,15 @@
+model: bilinear_review
+words_dim: 300
+embed_dim: 300
+word_hidden_dim: 200
+sent_hidden_dim: 200
+usr_dim: 100
+prd_dim: 100
+pre_pooling_dim: 50
+hidden_dropout_prob: 0.0
+attention_probs_dropout_prob: 0.0
+pre_classifier_dim: 50
+inter_word_level: False
+inter_sent_level: False
+shard_word_level: False
+shard_sent_level: False
