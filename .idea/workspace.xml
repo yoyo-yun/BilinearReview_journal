@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ec117b4-fb32-4bc9-9a60-3e1289e6df8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="ab630d04-8974-40cd-9eee-eced695bc460" />
+  <component name="ProjectId" id="1dOKLhME49pBoQFdvAXFBfs29Oz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\BilinearReview" />
+      <recent name="D:\PycharmProjects\BilinearReview\corpus\draw_data" />
+      <recent name="D:\PycharmProjects\BilinearReview\pretrained_Vectors" />
+      <recent name="D:\PycharmProjects\BilinearReview\common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\BilinearReview_journal" />
+      <recent name="D:\PycharmProjects\BilinearReview\models_v2" />
+      <recent name="D:\PycharmProjects\BilinearReview\graph_model" />
+      <recent name="D:\PycharmProjects\BilinearReview" />
+      <recent name="D:\PycharmProjects\BilinearReview\cfgs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.plot">
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BilinearReview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="BilinearReview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BilinearReview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BilinearReview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.model" />
+      <item itemvalue="Python.plot" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.trees" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plot" />
+        <item itemvalue="Python.trees" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ec117b4-fb32-4bc9-9a60-3e1289e6df8c" name="Default Changelist" comment="" />
+      <created>1592290646229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592290646229</updated>
+      <workItem from="1592290655915" duration="24626000" />
+      <workItem from="1592454891708" duration="14371000" />
+      <workItem from="1592534901110" duration="22227000" />
+      <workItem from="1592719649229" duration="3419000" />
+      <workItem from="1592890612513" duration="94484000" />
+      <workItem from="1593225133670" duration="39109000" />
+      <workItem from="1594176831599" duration="24014000" />
+      <workItem from="1595126710484" duration="1777000" />
+      <workItem from="1595211338138" duration="21237000" />
+      <workItem from="1595835618905" duration="76734000" />
+      <workItem from="1596249558834" duration="920000" />
+      <workItem from="1596365668363" duration="15129000" />
+      <workItem from="1597196620542" duration="404000" />
+      <workItem from="1597281851685" duration="13990000" />
+      <workItem from="1597585300370" duration="51861000" />
+      <workItem from="1597984705762" duration="11800000" />
+      <workItem from="1598095492566" duration="16346000" />
+      <workItem from="1598533589301" duration="14637000" />
+      <workItem from="1598866672599" duration="20806000" />
+      <workItem from="1599313693323" duration="442000" />
+      <workItem from="1599314985407" duration="5963000" />
+      <workItem from="1599448795560" duration="1147000" />
+      <workItem from="1599456419350" duration="11765000" />
+      <workItem from="1600828532335" duration="31704000" />
+      <workItem from="1601034935937" duration="498000" />
+      <workItem from="1601035451613" duration="26892000" />
+      <workItem from="1601443353969" duration="37764000" />
+      <workItem from="1601711755416" duration="31447000" />
+      <workItem from="1601953513242" duration="2481000" />
+      <workItem from="1601984265696" duration="26881000" />
+      <workItem from="1602220280592" duration="12746000" />
+      <workItem from="1602491523536" duration="40183000" />
+      <workItem from="1603092532401" duration="14888000" />
+      <workItem from="1603256478511" duration="48014000" />
+      <workItem from="1603679244442" duration="32412000" />
+      <workItem from="1603946777736" duration="13645000" />
+      <workItem from="1604025873299" duration="85208000" />
+      <workItem from="1604388466866" duration="10007000" />
+      <workItem from="1604542175610" duration="2852000" />
+      <workItem from="1604628693285" duration="286000" />
+      <workItem from="1605096660802" duration="3519000" />
+      <workItem from="1605147428427" duration="1793000" />
+      <workItem from="1605445438355" duration="121000" />
+      <workItem from="1605676103015" duration="4409000" />
+      <workItem from="1605923719808" duration="5111000" />
+      <workItem from="1605942294718" duration="486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="109" key="#Deployment" timestamp="1605924334797">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="362" y="109" key="#Deployment/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1605924334797" />
+    <state x="1363" y="422" key="#Notifications" timestamp="1603082649974">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1363" y="422" key="#Notifications/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1603082649974" />
+    <state x="1363" y="422" key="#Notifications/0.0.1680.1010/1680.0.1920.1160@1680.0.1920.1160" timestamp="1598689883634" />
+    <state x="342" y="92" key="#SSH_Configurations" timestamp="1602123080295">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="342" y="92" key="#SSH_Configurations/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1602123080295" />
+    <state x="321" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604285965388">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="321" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1604285965388" />
+    <state x="396" y="280" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604236005489">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="396" y="280" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1604236005489" />
+    <state x="614" y="334" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605927240942">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="614" y="334" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1605927240942" />
+    <state x="585" y="269" key="FileChooserDialogImpl" timestamp="1602138793072">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="585" y="269" key="FileChooserDialogImpl/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1602138793072" />
+    <state width="1568" height="150" key="GridCell.Tab.0.bottom" timestamp="1605874367070">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1568" height="150" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1605874367070" />
+    <state width="1432" height="169" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1920.1160@1680.0.1920.1160" timestamp="1603373891125" />
+    <state width="1568" height="150" key="GridCell.Tab.0.center" timestamp="1605874367070">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1568" height="150" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1605874367070" />
+    <state width="1432" height="169" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1920.1160@1680.0.1920.1160" timestamp="1603373891124" />
+    <state width="1568" height="150" key="GridCell.Tab.0.left" timestamp="1605874367070">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1568" height="150" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1605874367070" />
+    <state width="1432" height="169" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1920.1160@1680.0.1920.1160" timestamp="1603373891124" />
+    <state width="1568" height="150" key="GridCell.Tab.0.right" timestamp="1605874367070">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1568" height="150" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1605874367070" />
+    <state width="1432" height="169" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1920.1160@1680.0.1920.1160" timestamp="1603373891125" />
+    <state x="280" y="71" key="SettingsEditor" timestamp="1604285933829">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="280" y="71" key="SettingsEditor/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1604285933829" />
+    <state x="478" y="23" width="1167" height="869" key="dock-window-1" timestamp="1604230753137">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="478" y="23" width="1167" height="869" key="dock-window-1/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1604230753137" />
+    <state x="149" y="40" width="1167" height="869" key="dock-window-1/0.0.1680.1010/1680.0.1920.1160@1680.0.1920.1160" timestamp="1604204152232" />
+    <state x="1997" y="73" width="1167" height="1066" key="dock-window-2" timestamp="1604286441072">
+      <screen x="1680" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1997" y="73" width="1167" height="1066" key="dock-window-2/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1604286441072" />
+    <state x="497" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1600917499015">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="497" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1680.1010/1680.0.1920.1160@0.0.1680.1010" timestamp="1600917499015" />
+    <state x="2248" y="-1" width="960" height="1188" key="search.everywhere.popup/0.0.1680.1010/1680.0.1920.1160@1680.0.1920.1160" timestamp="1599449336425" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BilinearReview$model.coverage" NAME="model Coverage Results" MODIFIED="1596542360007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/BilinearReview$test.coverage" NAME="test Coverage Results" MODIFIED="1604058485585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BilinearReview$bilinear_att.coverage" NAME="bilinear_att Coverage Results" MODIFIED="1602125963905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/BilinearReview$trees.coverage" NAME="trees Coverage Results" MODIFIED="1604405267116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BilinearReview$graph_field.coverage" NAME="graph_field Coverage Results" MODIFIED="1595919099439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/BilinearReview$plot.coverage" NAME="plot Coverage Results" MODIFIED="1605704902932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

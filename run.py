@@ -64,7 +64,6 @@ if __name__ == '__main__':
 
     # __C.check_path()
     if __C.model == "bilinear":
-        initial_vectors(__C.dataset)
         execution = Trainer(__C)
         execution.run(__C.run_mode)
     else:
